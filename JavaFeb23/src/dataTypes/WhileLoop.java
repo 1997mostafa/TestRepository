@@ -9,7 +9,8 @@ public class WhileLoop {
 		 *  your place
 		 */
 		 
-		String place = "Brooklyn";
+		// changed location
+		String place = "Queens";
 		int start = 1;
 		
 				 while (start <=3)
