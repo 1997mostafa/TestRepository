@@ -4,7 +4,7 @@ public class ArrayDemo {
 
 	public static void main(String[] args) {
 		
-		
+		// This is an one dimensional array
 		//declaring array
 		String[] myArray = new String[3];
 		
